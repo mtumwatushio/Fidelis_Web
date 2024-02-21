@@ -61,7 +61,7 @@ void handleLogin() async {
       if (email == n_email) {
         if (password.hashCode.toString() == npassword.toString()) {
         } else if (password != npassword) {}
-      } else if (username != n_username) {}
+      } else if (email != n_email) {}
       connection.close();
     }
   }
