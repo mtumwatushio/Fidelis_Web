@@ -1,12 +1,3 @@
--- phpMyAdmin SQL Dump
--- version 5.2.1
--- https://www.phpmyadmin.net/
---
--- Host: localhost
--- Generation Time: Feb 15, 2024 at 08:18 PM
--- Server version: 10.4.28-MariaDB
--- PHP Version: 8.2.4
-
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
@@ -19,11 +10,7 @@ SET time_zone = "+00:00";
 
 --
 -- Database: `dtb`
---
 
--- --------------------------------------------------------
-
---
 -- Table structure for table `dtb`
 --
 
