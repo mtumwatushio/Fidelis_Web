@@ -1,0 +1,4 @@
+name: my_dart_website
+dependencies:
+  shelf: ^0.7.0
+  sqljocky: ^0.15.0
